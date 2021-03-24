@@ -1,0 +1,39 @@
+body{
+    background:#d2d2c1 url(imagens/fundo.png);
+}
+#capa{
+    border: solid 0px red;
+    width: 900px;
+}
+.menu{
+    background: #c5c5b2;
+    padding: 18px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+    padding: 5px;
+}
+.corpo{
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    padding: 10px;
+}
+.sobre{
+    color: gray;
+}
+.fim{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#imagem1{
+    border: solid 5px aqua;
+}
+#imagem2{
+    border: solid 5px aqua;
+}
+#imagem3{
+    border: solid 5px aqua;
+}
